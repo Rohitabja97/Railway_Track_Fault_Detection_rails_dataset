@@ -65,12 +65,14 @@ https://www.kaggle.com/datasets/ashikadnan/railway-track-fault-detection-dataset
 
 > Replace the placeholder values below with your actual performance metrics.
 
-- **Validation Accuracy:** XX%  
-- **Validation AUC:** XX  
-- **Precision:** XX  
-- **Recall:** XX  
+- **Test Accuracy:** 96.25%
+- **Test Loss:** 0.4028 
+- **Test AUC:** 0.9922
+- **Precision:** 0.9744  
+- **Recall:** 0.95  
 
-(Add confusion matrix / ROC curve image here if available)
+<img width="558" height="490" alt="image" src="https://github.com/user-attachments/assets/3c230bd6-584b-4a1c-8d1d-f0fb64976c3f" />
+
 
 ---
 
@@ -85,7 +87,7 @@ https://www.kaggle.com/datasets/ashikadnan/railway-track-fault-detection-dataset
 
 ## 👨‍💻 Author
 
-Your Name  
+Rohitabja Gupta
 M.Tech CSE (AI/ML)
 
 
